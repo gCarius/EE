@@ -1,5 +1,6 @@
 # EE
-This project has the main and only use for my Extended Essay on the IB Diploma Program, 
-however if a CSGO dataset is needed u can take it and no mention is required.
+This project has the main and only use for my Extended Essay on the IB Diploma Program.\n
 
-(Note: the dataset is extracted fomr HLTV)
+This explores the capabilities of ML algorithms to predict CS:GO game results.
+
+(Note: the dataset is extracted from HLTV)
